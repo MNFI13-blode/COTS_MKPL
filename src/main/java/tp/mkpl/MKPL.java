@@ -26,6 +26,24 @@ public class MKPL {
         System.out.println("Enter an operator (+, -, *, /): ");
         char operator = scanner.next().charAt(0);
 
+        System.out.println("Enter second number: ");
+        double num2 = scanner.nextDouble();
+
+        System.out.println("Enter an operator (+, -, *, /): ");
+        char operator = scanner.next().charAt(0);
+
+        System.out.println("Enter second number: ");
+        double num2 = scanner.nextDouble();
+
+        System.out.println("Enter an operator (+, -, *, /): ");
+        char operator = scanner.next().charAt(0);
+
+        System.out.println("Enter second number: ");
+        double num2 = scanner.nextDouble();
+
+        System.out.println("Enter an operator (+, -, *, /): ");
+        char operator = scanner.next().charAt(0);
+
         double result;
 
         switch(operator) {
