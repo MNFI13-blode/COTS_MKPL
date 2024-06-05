@@ -50,7 +50,7 @@ public class MKPLTest {
 
     @Test
     public void testSubtraction() {
-        double num1 = 97.0;
+        double num1 = 5.0;
         double num2 = 3.0;
         char operator = '-';
         double expected = 2.0;
